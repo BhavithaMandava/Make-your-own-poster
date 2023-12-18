@@ -1,0 +1,145 @@
+html,
+body {
+
+  display: flex;
+  align-items: start;
+  background-color: black;
+  color: white;
+  
+
+}
+
+canvas {
+  display: block;
+}
+#controls {
+  margin-left: 1em;
+  max-width: 250px;
+  font-family: Arial, sans-serif;
+  color: #000;
+}
+
+#controls h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#controls input,
+#controls button,
+#controls label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#controls button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+
+#controls button:hover {
+  background-color: #333;
+}
+
+#controls label {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#notesDiv, #similarDiv {
+      margin-top: 20px;
+      margin-right: 20px
+
+}
+
+#notesDiv h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+#notesDiv p {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+/* Additional styles */
+body {
+  background-color: #f3e9dc; 
+}
+
+canvas {
+  border: 1px solid #ccc;
+}
+html,
+body {
+  display: flex;
+  align-items: start;
+  background-color: black;
+  color: white;
+}
+
+canvas {
+  display: block;
+}
+#controls {
+  margin-left: 1em;
+  max-width: 250px;
+  font-family: Arial, sans-serif;
+  color: #000;
+}
+
+#controls h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#controls input,
+#controls button,
+#controls label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#controls button {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#controls button:hover {
+  background-color: #333;
+}
+
+#controls label {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#notesDiv, #similarDiv {
+      margin-top: 20px;
+      margin-right: 20px
+}
+
+#notesDiv h3 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+#notesDiv p {
+  font-size: 14px;
+  margin-left: 10px;
+}
+
+/* Additional styles */
+body {
+  background-color: #f3e9dc; 
+}
+
+canvas {
+  border: 1px solid #ccc; 
+}
